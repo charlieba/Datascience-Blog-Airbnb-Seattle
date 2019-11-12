@@ -1,7 +1,7 @@
 # Airbnb Data Science - Seattle
 
 ## Table of Contents
-1. Installation
+1. [Installation](#Installation)
 2. Project Motivation
 3. File Descriptions
 4. How to Interact with the project
@@ -26,7 +26,7 @@ My motivation for this project was take a look of the Airbnb public data on Seat
 3. What city of Seattle has more options to look for a Airbnb that accomplish my requirements?
 4. What variables are important for predicting the price of an Airbnb in Seattle?
 
-##File Descriptions
+## File Descriptions
 * **Knowing the datasets.ipynb**
 The objective of this Jupyter Notebook is get an idea of how is the data, and what are the important variables to answer our questions. In this file i have used basics functions to know the data, like the _describe_ function and _head_. 
 * **Mean of price per location and Distribution.ipynb**
