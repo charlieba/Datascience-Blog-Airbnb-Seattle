@@ -2,11 +2,11 @@
 
 ## Table of Contents
 1. [Installation](#Installation)
-2. Project Motivation
-3. File Descriptions
-4. How to Interact with the project
-5. Results
-6. Licensing, Authors, Acknowledgements, etc.
+2. [Project Motivation](#Project Motivation)
+3. [File Descriptions](#File Descriptions)
+4. [How to Interact with the project](#How to Interact with the project)
+5. [Results](#Results)
+6. [Licensing, Authors, Acknowledgements, etc.](#Licensing, Authors, Acknowledgements)
 
 ## Installation
 To run this project you have to use an instance of Jupyter Notebook with python 3. 
