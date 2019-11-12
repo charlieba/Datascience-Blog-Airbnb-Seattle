@@ -1,12 +1,12 @@
 # Airbnb Data Science - Seattle
 
 ## Table of Contents
-1. [Installation](#Installation)
+1. [Installation](#installation)
 2. [Project Motivation](#ProjectMotivation)
-3. [File Descriptions](#FileDescriptions)
-4. [How to Interact with the project](#HowtoInteractwiththeproject)
-5. [Results](#Results)
-6. [Licensing, Authors, Acknowledgements, etc.](#Licensing,Authors,Acknowledgements)
+3. [File Descriptions](#file-descriptions)
+4. [How to Interact with the project](#how-to-interact-with-the-project)
+5. [Results](#results)
+6. [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements)
 
 ## Installation
 To run this project you have to use an instance of Jupyter Notebook with python 3. 
