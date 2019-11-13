@@ -37,7 +37,7 @@ The objective of this Jupyter Notebook is answer the question about the mean of 
 The objective of this Jupyter Notebook is know the variables that have correlation with the price. In this file i use two datasets, litings.csv, scraped.csv and a heatmap to see the correlation. In this file you can see functions to fill NA's and dummy variables with the goal to get a better prediction.
 
 ## How to Interact with the project
-The project is splitted in the questions that we want to answer, the best way to interact with the project is per questions, and what question do you want to see how to resolve. You can use the next dictionary with the questions and files. 
+The project is splitted in the questions that we want to answer, the best way to interact with is starting with the file **Business Understanding and Data Understanding.ipynb** then you can proceed to check depends of what question do you want to see how to resolve. You can use the next dictionary with the questions and files. 
 1. What is the most expensive city in Seattle for rent an Airbnb? This question is answered in the file **Mean of price per location and Distribution.ipynb**.
 2. What is the better date to travel to Seattle and find a good price for an Airbnb? This question is answered in the file **Mean price during the year.ipynb**.
 3.  What city of Seattle has more options to look for a Airbnb that accomplish my requirements? This question is answered in the file **Mean of price per location and Distribution.ipynb**.
