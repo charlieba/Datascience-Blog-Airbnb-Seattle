@@ -47,6 +47,6 @@ The project is splitted in the questions that we want to answer, the best way to
 The main findings of the code can be found at the post available [here](https://medium.com/@giovanib07/4-facts-that-will-make-you-thing-when-you-have-to-rent-a-airbnb-in-seattle-a8f42857389e).
 
 ## Licensing, Authors, Acknowledgements
-Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the airbnb link available [here](http://insideairbnb.com/get-the-data.html).Otherwise, feel free to use the code here as you would like!
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the airbnb link available [here](http://insideairbnb.com/get-the-data.html). Otherwise, feel free to use the code here as you would like!
 
 
